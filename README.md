@@ -12,7 +12,7 @@
 -   🔥 **修改 App 名称和 Logo**
 -   🎨 **定制专属 UI 主题**
 -   🚀 **增加高级功能**
--   🛠️ **全套上架服务 (Play Store / App Store)**
+
 
 请通过 Telegram 联系我：👉 **[@xiaoxiaonihaoya](https://t.me/xiaoxiaonihaoya)**
 
