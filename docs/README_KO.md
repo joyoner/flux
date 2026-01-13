@@ -19,6 +19,24 @@
 
 ---
 
+## 📱 스크린샷
+
+### 📱 모바일
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="../assets/images/screenshots/1.png" width="200"> | <img src="../assets/images/screenshots/2.png" width="200"> | <img src="../assets/images/screenshots/3.png" width="200"> |
+| <img src="../assets/images/screenshots/4.png" width="200"> | <img src="../assets/images/screenshots/5.png" width="200"> | |
+
+### 💻 데스크톱
+
+| | |
+| :---: | :---: |
+| <img src="../assets/images/screenshots/6.png" width="200"> | <img src="../assets/images/screenshots/7.png" width="200"> |
+| <img src="../assets/images/screenshots/8.png" width="200"> | <img src="../assets/images/screenshots/9.png" width="200"> |
+
+---
+
 ## 🎉 주요 특징
 
 -   **간편한 통합**: **한 단계**로 완료! API URL만 수정하면 바로 사용 가능.

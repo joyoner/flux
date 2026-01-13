@@ -19,6 +19,24 @@ Telegram でお問い合わせください：👉 **[@xiaoxiaonihaoya](https://t
 
 ---
 
+## 📱 スクリーンショット
+
+### 📱 モバイル
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="../assets/images/screenshots/1.png" width="200"> | <img src="../assets/images/screenshots/2.png" width="200"> | <img src="../assets/images/screenshots/3.png" width="200"> |
+| <img src="../assets/images/screenshots/4.png" width="200"> | <img src="../assets/images/screenshots/5.png" width="200"> | |
+
+### 💻 デスクトップ
+
+| | |
+| :---: | :---: |
+| <img src="../assets/images/screenshots/6.png" width="200"> | <img src="../assets/images/screenshots/7.png" width="200"> |
+| <img src="../assets/images/screenshots/8.png" width="200"> | <img src="../assets/images/screenshots/9.png" width="200"> |
+
+---
+
 ## 🎉 主な特徴
 
 -   **シンプルな統合**: たった**一歩**で完了！API URL を変更するだけで使用開始。

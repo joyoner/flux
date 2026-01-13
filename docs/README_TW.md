@@ -19,6 +19,24 @@
 
 ---
 
+## 📱 介面預覽
+
+### 📱 App 版本
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="../assets/images/screenshots/1.png" width="200"> | <img src="../assets/images/screenshots/2.png" width="200"> | <img src="../assets/images/screenshots/3.png" width="200"> |
+| <img src="../assets/images/screenshots/4.png" width="200"> | <img src="../assets/images/screenshots/5.png" width="200"> | |
+
+### 💻 桌面版本
+
+| | |
+| :---: | :---: |
+| <img src="../assets/images/screenshots/6.png" width="200"> | <img src="../assets/images/screenshots/7.png" width="200"> |
+| <img src="../assets/images/screenshots/8.png" width="200"> | <img src="../assets/images/screenshots/9.png" width="200"> |
+
+---
+
 ## 🎉 核心優勢
 
 -   **極簡對接**: 真的只需要**一步**！修改 API 網址即可直接使用，告別繁瑣設定。
